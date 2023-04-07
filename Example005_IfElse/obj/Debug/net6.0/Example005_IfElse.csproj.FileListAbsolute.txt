@@ -1,0 +1,15 @@
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.csproj.AssemblyReference.cache
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.AssemblyInfoInputs.cache
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.AssemblyInfo.cs
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.exe
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.deps.json
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.runtimeconfig.json
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.dll
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.pdb
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.dll
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\refint\Example005_IfElse.dll
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.pdb
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.genruntimeconfig.cache
+C:\Users\Anton Chernyshev\Desktop\Examples\Example005_IfElse\obj\Debug\net6.0\ref\Example005_IfElse.dll
